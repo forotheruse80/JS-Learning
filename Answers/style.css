@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital@1&family=Roboto&family=Water+Brush&display=swap');
+
+
+.container {
+  max-width: 750px;
+  margin: auto;
+}
+
+body {
+  background-color: #f1f1f1;
+  color: #0f141e;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: rgb(171, 171, 190);
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+}
+
+label {
+  text-align: right;
+  color: #0f141e;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+
+.text {
+  color: rgb(171, 171, 190);
+  /* font-family: 'Arimo', sans-serif; */
+  font-family: 'Water Brush', cursive;
+  font-size: 20px;
+  text-align: right;
+  text-shadow: 0 0 9px white;
+}
+
+.textarea {
+  text-align: right;
+  color: #0f141e;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  border-radius: 12px;
+  background: rgb(233, 243, 249);
+    
+}
